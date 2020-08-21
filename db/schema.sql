@@ -23,4 +23,5 @@ CREATE TABLE employee(
     last_name VARCHAR(30) NOT NULL,
     role_id INT UNSIGNED NOT NULL,
     manager_id INT UNSIGNED NOT NULL,
+    department_id INT UNSIGNED NOT NULL
 );

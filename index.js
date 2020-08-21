@@ -154,3 +154,5 @@ function quit() {
     console.log("quitting application")
     process.exit()
 }
+
+mainPrompts();
